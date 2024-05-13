@@ -1,1 +1,5 @@
-wordle/target/
+node_modules/
+pkg/
+target/
+dist/
+dist.tar.gz
